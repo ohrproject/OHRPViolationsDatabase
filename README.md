@@ -9,7 +9,7 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+Open Human Rights Project Violation Watch Database
 
 </header>
 
