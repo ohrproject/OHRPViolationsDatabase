@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-Open Human Rights Project Violation Watch Database
+
 
 </header>
 
