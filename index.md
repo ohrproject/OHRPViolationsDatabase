@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Human Rights Violations Database"
 date: 2025-01-31
 categories: human-rights database violations
 ---
