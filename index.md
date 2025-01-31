@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Open Human Rights Project Violation Watch Database
 ---
 
