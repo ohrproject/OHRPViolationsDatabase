@@ -8,7 +8,7 @@
 -->
 Open Human Rights Project Violations Database
 
-This database is intended to provide visibility into global human rights issues, categorized by the Universal Declaration of Human Rights (UDHR). Mapping cases with articles violated.
+This database is intended to provide visibility into global human rights issues, categorized by the Universal Declaration of Human Rights (UDHR), mapping cases with articles violated.
 </header>
 
 
