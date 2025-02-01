@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 date: 2025-01-31
 categories: human-rights database violations
 ---
