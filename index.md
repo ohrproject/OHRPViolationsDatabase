@@ -4,7 +4,7 @@ date: 2025-01-31
 categories: human-rights database violations
 ---
 
-Below is a table documenting recent human rights violations around the world. This table highlights the date, country, specific rights violated, and details of each case.
+Below is a table documenting recent human rights violations around the world, highlighting the date, country, specific rights violated, and details of each case.
 
 | **Date**       | **Country** | **Human Rights Violated**                          | **Description of Violation(s)**                                                                                          | **Source/Reference**       | **Articles Violated** |
 |----------------|-------------|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------|-----------------------|
