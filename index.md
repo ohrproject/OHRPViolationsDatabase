@@ -20,7 +20,7 @@ Below is a table documenting recent human rights violations around the world. Th
 
 
 
-This database is intended to provide visibility into global human rights issues, categorized by the Universal Declaration of Human Rights (UDHR).
+This database is intended to provide visibility into global human rights issues, categorized by the Universal Declaration of Human Rights ([UDHR](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights)).
 
 ## Explanation of Articles Violated
 1. **Article 1** - Right to dignity and recognition as a person before the law.
