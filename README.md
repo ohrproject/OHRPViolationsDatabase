@@ -6,7 +6,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-Open Human Rights Project Violations Database
+**Open Human Rights Project Violations Database**
 
 This database is intended to provide visibility into global human rights issues, categorized by the Universal Declaration of Human Rights (UDHR), mapping cases with articles violated.
 </header>
