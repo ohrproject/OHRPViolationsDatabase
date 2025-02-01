@@ -25,17 +25,19 @@ This database is intended to provide visibility into global human rights issues,
 1. **Article 3** – Right to life, liberty, and security of person.
 2. **Article 4** – Freedom from slavery or forced labour.
 3. **Article 5** – Freedom from torture or cruel, inhuman, or degrading treatment or punishment.
-4. **Article 9** – Freedom from arbitrary arrest or detention.
-5. **Article 13** – Right to freedom of movement and residence.
-6. **Article 14** – Right to seek asylum from persecution.
-7. **Article 17** – Right to own property and protection from arbitrary deprivation of property.
-8. **Article 20** – Freedom of peaceful assembly and association.
-9. **Article 22** – Right to social security.
-10. **Article 23** – Right to work under just and favorable conditions.
-11. **Article 24** – Right to rest and leisure.
-12. **Article 25** – Right to an adequate standard of living.
-13. **Article 26** – Right to education.
-14. **Article 28** – Right to a social and international order.
+4. **Article 7** – Right to equal protection under the law.
+5. **Article 9** – Freedom from arbitrary arrest or detention.
+6. **Article 10** – Right to a fair hearing.
+7. **Article 13** – Right to freedom of movement and residence.
+8. **Article 14** – Right to seek asylum from persecution.
+9. **Article 17** – Right to own property and protection from arbitrary deprivation of property.
+10. **Article 20** – Freedom of peaceful assembly and association.
+11. **Article 22** – Right to social security.
+12. **Article 23** – Right to work under just and favorable conditions.
+13. **Article 24** – Right to rest and leisure.
+14. **Article 25** – Right to an adequate standard of living.
+15. **Article 26** – Right to education.
+16. **Article 28** – Right to a social and international order.
 
 ---
 
