@@ -3,7 +3,6 @@ layout: default
 date: 2025-01-31
 categories: human-rights database violations
 ---
-# Open Human Rights Project Violations Database
 
 Below is a table documenting recent human rights violations around the world. This table highlights the date, country, specific rights violated, and details of each case.
 
