@@ -23,24 +23,24 @@ Below is a table documenting recent human rights violations around the world. Th
 This database is intended to provide visibility into global human rights issues, categorized by the Universal Declaration of Human Rights ([UDHR](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights)).
 
 ## Explanation of Articles Violated
-**Article 1** - Right to dignity and recognition as a person before the law.
-**Article 3** – Right to life, liberty, and security of person.
-**Article 4** – Freedom from slavery or forced labour.
-**Article 5** – Freedom from torture or cruel, inhuman, or degrading treatment or punishment.
-**Article 7** – Right to equal protection under the law.
-**Article 9** – Freedom from arbitrary arrest or detention.
-**Article 10** – Right to a fair hearing.
-**Article 13** – Right to freedom of movement and residence.
-**Article 14** – Right to seek asylum from persecution.
-**Article 17** – Right to own property and protection from arbitrary deprivation of property.
-**Article 19** - Right to access information.
-**Article 20** – Freedom of peaceful assembly and association.
-**Article 22** – Right to social security.
-**Article 23** – Right to work under just and favorable conditions.
-**Article 24** – Right to rest and leisure.
-**Article 25** – Right to an adequate standard of living for health and well-being.
-**Article 26** – Right to education.
-**Article 28** – Right to a social and international order.
+**Article 1** - Right to dignity and recognition as a person before the law.<br>
+**Article 3** – Right to life, liberty, and security of person.<br>
+**Article 4** – Freedom from slavery or forced labour.<br>
+**Article 5** – Freedom from torture or cruel, inhuman, or degrading treatment or punishment.<br>
+**Article 7** – Right to equal protection under the law.<br>
+**Article 9** – Freedom from arbitrary arrest or detention.<br>
+**Article 10** – Right to a fair hearing.<br>
+**Article 13** – Right to freedom of movement and residence.<br>
+**Article 14** – Right to seek asylum from persecution.<br>
+**Article 17** – Right to own property and protection from arbitrary deprivation of property.<br>
+**Article 19** - Right to access information.<br>
+**Article 20** – Freedom of peaceful assembly and association.<br>
+**Article 22** – Right to social security.<br>
+**Article 23** – Right to work under just and favorable conditions.<br>
+**Article 24** – Right to rest and leisure.<br>
+**Article 25** – Right to an adequate standard of living for health and well-being.<br>
+**Article 26** – Right to education.<br>
+**Article 28** – Right to a social and international order.<br>
 
 ---
 
