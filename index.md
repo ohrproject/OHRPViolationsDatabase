@@ -30,11 +30,13 @@ This database is intended to provide visibility into global human rights issues,
 **Article 7** – Right to equal protection under the law.<br>
 **Article 9** – Freedom from arbitrary arrest or detention.<br>
 **Article 10** – Right to a fair hearing.<br>
+**Article 12** - Right to privacy and protection<br>
 **Article 13** – Right to freedom of movement and residence.<br>
 **Article 14** – Right to seek asylum from persecution.<br>
 **Article 17** – Right to own property and protection from arbitrary deprivation of property.<br>
 **Article 19** - Right to access information.<br>
 **Article 20** – Freedom of peaceful assembly and association.<br>
+**Article 21** - Right to participate in government<br>
 **Article 22** – Right to social security.<br>
 **Article 23** – Right to work under just and favorable conditions.<br>
 **Article 24** – Right to rest and leisure.<br>
