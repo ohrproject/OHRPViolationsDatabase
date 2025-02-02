@@ -2,6 +2,10 @@ theme: minima
 title: Open Human Rights Project Violations Database
 description: For tracking & documenting human rights violations worldwide. Clear, precise, and accessible to all.
 author: Open Human Rights Project
-bluesky_username: ohrproject
+
 github_username: ohrproject
 rss: rss
+minima:
+  social_links:
+    - platform: bluesky
+      user_url: "https://bsky.app/profile/ohrproject.bsky.social"
