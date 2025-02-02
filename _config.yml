@@ -5,7 +5,6 @@ author: Open Human Rights Project
 
 github_username: ohrproject
 rss: rss
-minima:
   social_links:
     - platform: bluesky
       user_url: "https://bsky.app/profile/ohrproject.bsky.social"
