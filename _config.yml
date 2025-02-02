@@ -9,7 +9,6 @@ minima:
   social_links:
     - platform: bluesky
       user_url: "https://bsky.app/profile/ohrproject.bsky.social"
-      minima:
     - platform: deviantart  # same as SVG filename.
       user_url: "https://www.deviantart.com/john.doe"  # URL of profile page.
       title:  My profile at DeviantArt.com  # Optional. Text displayed on hovering over link.
