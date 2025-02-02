@@ -34,6 +34,7 @@ This database is intended to provide visibility into global human rights issues,
 **Article 12** – Right to privacy and protection<br>
 **Article 13** – Right to freedom of movement and residence.<br>
 **Article 14** – Right to seek asylum from persecution.<br>
+**Article 16** – Right to marry and to found a family, with full and equal rights for both spouses in marriage and its dissolution.
 **Article 17** – Right to own property and protection from arbitrary deprivation of property.<br>
 **Article 19** – Right to access information.<br>
 **Article 20** – Freedom of peaceful assembly and association.<br>
